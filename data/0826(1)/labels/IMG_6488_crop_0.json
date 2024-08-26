@@ -1,0 +1,35 @@
+{
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "license",
+            "points": [
+                [
+                    15.149999999999999,
+                    7.350000000000001
+                ],
+                [
+                    15.350000000000001,
+                    22.25
+                ],
+                [
+                    88.65,
+                    21.85
+                ],
+                [
+                    88.75,
+                    6.850000000000001
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "../IMG_6488_crop_0.jpg",
+    "imageHeight": 31,
+    "imageWidth": 96
+}

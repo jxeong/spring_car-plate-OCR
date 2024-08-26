@@ -1,0 +1,35 @@
+{
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "license",
+            "points": [
+                [
+                    231.62500000000009,
+                    159.875
+                ],
+                [
+                    234.12500000000009,
+                    393.625
+                ],
+                [
+                    1492.875,
+                    316.125
+                ],
+                [
+                    1504.125,
+                    86.125
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "../IMG_3020_crop_0.jpg",
+    "imageHeight": 501,
+    "imageWidth": 1557
+}

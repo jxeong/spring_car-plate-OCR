@@ -1,0 +1,36 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "license",
+      "points": [
+        [
+          53.617067833698044,
+          38.00984682713349
+        ],
+        [
+          49.67833698030636,
+          67.9879649890591
+        ],
+        [
+          209.1969365426696,
+          78.05361050328229
+        ],
+        [
+          210.07221006564552,
+          48.07549234135668
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "../../Downloads/자동차번호판/05누8302.jpg",
+  "imageData": null,
+  "imageHeight": 113,
+  "imageWidth": 258
+}

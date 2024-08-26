@@ -1,0 +1,36 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "license",
+      "points": [
+        [
+          58.33832335329342,
+          1.2874251497005957
+        ],
+        [
+          56.541916167664674,
+          46.796407185628766
+        ],
+        [
+          307.44011976047904,
+          50.38922155688624
+        ],
+        [
+          305.14970059880244,
+          -7.105427357601002e-15
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "../../Downloads/자동차번호판/03라7279-2.jpg",
+  "imageData": null,
+  "imageHeight": 90,
+  "imageWidth": 355
+}

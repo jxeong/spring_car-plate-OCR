@@ -1,0 +1,36 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "license",
+      "points": [
+        [
+          91.31884057971021,
+          72.2898550724637
+        ],
+        [
+          95.66666666666673,
+          215.76811594202894
+        ],
+        [
+          792.768115942029,
+          208.5217391304347
+        ],
+        [
+          791.3188405797101,
+          72.2898550724637
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "../../crop_img/KakaoTalk_20240713_232727428_27_crop_0.jpg",
+  "imageData": null,
+  "imageHeight": 304,
+  "imageWidth": 858
+}

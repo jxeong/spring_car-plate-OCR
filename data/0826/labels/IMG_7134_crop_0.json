@@ -1,0 +1,36 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "license",
+      "points": [
+        [
+          21.970822281167106,
+          13.450928381962868
+        ],
+        [
+          21.440318302387265,
+          38.11936339522548
+        ],
+        [
+          141.86472148541114,
+          37.323607427055705
+        ],
+        [
+          141.3342175066313,
+          13.716180371352792
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "../../crop_img/IMG_7134_crop_0.jpg",
+  "imageData": null,
+  "imageHeight": 46,
+  "imageWidth": 158
+}

@@ -1,0 +1,36 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "license",
+      "points": [
+        [
+          73.37554585152837,
+          41.06331877729257
+        ],
+        [
+          62.02183406113536,
+          120.53930131004367
+        ],
+        [
+          437.56768558951967,
+          148.48689956331876
+        ],
+        [
+          444.5545851528384,
+          64.20742358078601
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "../../Downloads/자동차번호판/05나2175-3.jpg",
+  "imageData": null,
+  "imageHeight": 183,
+  "imageWidth": 514
+}

@@ -1,0 +1,35 @@
+{
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "d",
+            "points": [
+                [
+                    111.78571428571435,
+                    82.0
+                ],
+                [
+                    116.78571428571435,
+                    237.0
+                ],
+                [
+                    861.7857142857142,
+                    240.57142857142856
+                ],
+                [
+                    866.0714285714286,
+                    91.28571428571428
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "../IMG_2876_crop_0.jpg",
+    "imageHeight": 309,
+    "imageWidth": 890
+}

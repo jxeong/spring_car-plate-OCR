@@ -1,0 +1,35 @@
+{
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "license",
+            "points": [
+                [
+                    61.51612903225807,
+                    16.72580645161291
+                ],
+                [
+                    61.83870967741937,
+                    72.20967741935485
+                ],
+                [
+                    372.16129032258067,
+                    80.2741935483871
+                ],
+                [
+                    374.741935483871,
+                    25.112903225806463
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "../IMG_6572_crop_0.jpg",
+    "imageHeight": 97,
+    "imageWidth": 404
+}

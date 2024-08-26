@@ -1,0 +1,36 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "license",
+      "points": [
+        [
+          42.06936416184971,
+          42.985549132947966
+        ],
+        [
+          42.936416184971094,
+          63.79479768786126
+        ],
+        [
+          128.77456647398844,
+          56.85838150289018
+        ],
+        [
+          126.46242774566474,
+          36.91618497109826
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "../../Downloads/자동차번호판/03누8500-2.jpg",
+  "imageData": null,
+  "imageHeight": 101,
+  "imageWidth": 172
+}

@@ -1,0 +1,36 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "license",
+      "points": [
+        [
+          48.83744855967078,
+          37.06995884773664
+        ],
+        [
+          47.191358024691354,
+          68.3456790123457
+        ],
+        [
+          197.39711934156378,
+          76.98765432098767
+        ],
+        [
+          198.22016460905348,
+          45.71193415637862
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "../../Downloads/자동차번호판/03주1350-2.jpg",
+  "imageData": null,
+  "imageHeight": 112,
+  "imageWidth": 245
+}
